@@ -1,16 +1,16 @@
-@REM Ê¹ÓÃ·¶Àý
-@REM ¸ñÊ½
-@REM ³ÌÐòÃû ÎÄ¼þ¼ÐÈ«Â·¾¶ ¼ÓÃÜ(1)/½âÃÕ(0)
-@REM Äã¿ÉÒÔÐÞ¸ÄÒÔÏÂÌõÄ¿
+@REM ä½¿ç”¨èŒƒä¾‹
+@REM æ ¼å¼
+@REM ç¨‹åºå æ–‡ä»¶å¤¹å…¨è·¯å¾„ åŠ å¯†(1)/è§£è°œ(0)
+@REM ä½ å¯ä»¥ä¿®æ”¹ä»¥ä¸‹æ¡ç›®
 
-@REM 1 ±íÊ¾¼ÓÃÜ£¬ÏÂÃæÕâ¾ä»°¾ÍÊÇ¼ÓÃÜ¡°c:\Ä³¸öÎÄ¼þ¼Ð¡±Õâ¸öÎÄ¼þ¼Ð
-BingBingILoveU.exe d:\hehe 1	
+@REM 1 è¡¨ç¤ºåŠ å¯†ï¼Œä¸‹é¢è¿™å¥è¯å°±æ˜¯åŠ å¯†â€œc:\æŸä¸ªæ–‡ä»¶å¤¹â€è¿™ä¸ªæ–‡ä»¶å¤¹
+egt.exe d:\hehe 1	
 
 
-@REM 0 ±íÊ¾½âÃÜ£¬ÏÂÃæÕâ¾ä»°¾ÍÊÇ½âÃÜ¡°c:\Ä³¸öÎÄ¼þ¼Ð¡±Õâ¸öÎÄ¼þ¼Ð	
-BingBingILoveU.exe c:\Ä³¸öÎÄ¼þ¼Ð 0	
+@REM 0 è¡¨ç¤ºè§£å¯†ï¼Œä¸‹é¢è¿™å¥è¯å°±æ˜¯è§£å¯†â€œc:\æŸä¸ªæ–‡ä»¶å¤¹â€è¿™ä¸ªæ–‡ä»¶å¤¹	
+egt.exe c:\æŸä¸ªæ–‡ä»¶å¤¹ 0	
 
 	
-@REM ºóÃæ¿ÉÒÔÔö¼ÓÄÚÈÝ½øÐÐÅúÁ¿²Ù×÷
+@REM åŽé¢å¯ä»¥å¢žåŠ å†…å®¹è¿›è¡Œæ‰¹é‡æ“ä½œ
 
 @pause
